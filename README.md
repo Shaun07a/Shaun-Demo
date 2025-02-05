@@ -1,3 +1,4 @@
 # Shaun-Demo
-This is my first GIT repository
-AUTHOR - Shaun Joseph
+This is my first GIT repository.
+<br>
+Author - Shaun Joseph
